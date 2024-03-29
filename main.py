@@ -6,7 +6,7 @@ from googletrans import Translator
 translator = Translator()
 
 # Telegram bot token
-TOKEN = '6733478392:AAEmqC_R8L5RhFGVVaJZnkXop7e2O5z7qSA'
+TOKEN = 'https://github.com/Spudblocks'
 
 # Function to handle /start command
 def start(update: Update, context: CallbackContext) -> None:
